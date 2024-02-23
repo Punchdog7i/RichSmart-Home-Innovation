@@ -1,0 +1,30 @@
+body {
+    font-family: 'Roboto', sans-serif;  /* Example futuristic font */
+    margin: 0;
+    background-color: #222; /* Dark background */
+    color: #eee; /* Light text */
+}
+
+header {
+    text-align: center;
+    background-color: #151515; /* Slightly darker header */
+    padding: 20px 0;
+}
+
+.tagline {
+    color: #00ccff; /* Neon blue tagline */
+    font-style: italic;
+}
+
+.services {
+    margin: 40px;
+}
+
+footer {
+    text-align: center;
+    padding: 15px;
+    background-color: #000; /* Black footer */
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
